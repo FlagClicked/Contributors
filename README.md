@@ -16,6 +16,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://scratch.mit.edu/users/TheColaber/"><img src="https://avatars.githubusercontent.com/u/72760579?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TheColaber</b></sub></a><br /><a href="https://github.com/FlagClicked/Contributors/commits?author=TheColaber" title="Code">💻</a> <a href="#ideas-TheColaber" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/MusicOnStereo"><img src="https://avatars.githubusercontent.com/u/80660200?v=4?s=100" width="100px;" alt=""/><br /><sub><b>musiconstereo</b></sub></a><br /><a href="#ideas-musiconstereo" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/CubeyTheCube"><img src="https://avatars.githubusercontent.com/u/72284516?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CubeyTheCube</b></sub></a><br /><a href="#ideas-CubeyTheCube" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 

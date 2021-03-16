@@ -23,7 +23,16 @@
       "contributions": [
         "ideas"
       ]
-    }
+    },
+    {
+      "login": "CubeyTheCube",
+      "name": "CubeyTheCube",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72284516?v=4",
+      "profile": "https://github.com/CubeyTheCube",
+    },
+      "contributions": [
+        "ideas"
+      ]
   ],
   "contributorsPerLine": 7,
   "projectName": "Contributors",
