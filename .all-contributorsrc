@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "TheColaber",
+      "name": "TheColaber",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72760579?v=4",
+      "profile": "https://scratch.mit.edu/users/TheColaber/",
+      "contributions": [
+        "code",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Contributors",
+  "projectOwner": "FlagClicked",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
