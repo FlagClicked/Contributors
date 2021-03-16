@@ -14,6 +14,15 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "musiconstereo",
+      "name": "musiconstereo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80660200?v=4",
+      "profile": "https://github.com/MusicOnStereo",
+      "contributions": [
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
