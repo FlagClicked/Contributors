@@ -32,6 +32,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "markverb1",
+      "name": "mark.exe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77983517?v=4",
+      "profile": "https://github.com/markverb1",
+      "contributions": [
+        "tutorial"
+      ]
     }
   ],
   "contributorsPerLine": 7,
