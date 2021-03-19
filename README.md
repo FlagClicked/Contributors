@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Visit [#1](https://github.com/FlagClicked/Contributors/issues/1) to see how you can be added to this list!
@@ -19,6 +19,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/CubeyTheCube"><img src="https://avatars.githubusercontent.com/u/72284516?v=4?s=100" width="100px;" alt=""/><br /><sub><b>CubeyTheCube</b></sub></a><br /><a href="#ideas-CubeyTheCube" title="Ideas, Planning, & Feedback">🤔</a></td>
     <td align="center"><a href="https://github.com/markverb1"><img src="https://avatars.githubusercontent.com/u/77983517?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mark.exe</b></sub></a><br /><a href="#tutorial-markverb1" title="Tutorials">✅</a></td>
     <td align="center"><a href="https://retronbv.github.io"><img src="https://avatars.githubusercontent.com/u/49005044?v=4?s=100" width="100px;" alt=""/><br /><sub><b>retronbv</b></sub></a><br /><a href="#ideas-retronbv" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://Scratch.mit.edu/users/-Xanimation-"><img src="https://avatars.githubusercontent.com/u/57809064?v=4?s=100" width="100px;" alt=""/><br /><sub><b>-Xanimation-</b></sub></a><br /><a href="#ideas-devxan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-devxan" title="Design">🎨</a></td>
   </tr>
 </table>
 
