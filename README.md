@@ -1,6 +1,6 @@
 # Contributors
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Visit [#1](https://github.com/FlagClicked/Contributors/issues/1) to see how you can be added to this list!
@@ -22,6 +22,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://Scratch.mit.edu/users/-Xanimation-"><img src="https://avatars.githubusercontent.com/u/57809064?v=4?s=100" width="100px;" alt=""/><br /><sub><b>-Xanimation-</b></sub></a><br /><a href="#ideas-devxan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-devxan" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/TheRykerJ"><img src="https://avatars.githubusercontent.com/u/70858083?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RykerJ.</b></sub></a><br /><a href="#ideas-TheRykerJ" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-TheRykerJ" title="Design">🎨</a></td>
     <td align="center"><a href="http://anantjit.whjr.site"><img src="https://avatars.githubusercontent.com/u/74092334?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anantjit</b></sub></a><br /><a href="#ideas-Genius398" title="Ideas, Planning, & Feedback">🤔</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://scratch.mit.edu/users/9gr"><img src="https://avatars.githubusercontent.com/u/67440879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>9gr</b></sub></a><br /><a href="#ideas-FunctionalMetatable" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
