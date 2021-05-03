@@ -23,7 +23,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/TheRykerJ"><img src="https://avatars.githubusercontent.com/u/70858083?v=4?s=100" width="100px;" alt=""/><br /><sub><b>RykerJ.</b></sub></a><br /><a href="#ideas-TheRykerJ" title="Ideas, Planning, & Feedback">🤔</a> <a href="#design-TheRykerJ" title="Design">🎨</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="http://scratch.mit.edu/users/9gr"><img src="https://avatars.githubusercontent.com/u/67440879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>9gr</b></sub></a><br /><a href="#ideas-FunctionalMetatable" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="http://scratch.mit.edu/users/9gr"><img src="https://avatars.githubusercontent.com/u/67440879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>9gr</b></sub></a><br /><a href="#ideas-FunctionalMetatable" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/FlagClicked/Contributors/commits?author=FunctionalMetatable" title="Code">💻</a></td>
     <td align="center"><a href="http://anantjit.whjr.site"><img src="https://avatars.githubusercontent.com/u/74092334?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anantjit</b></sub></a><br /><a href="#ideas-Genius398" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
