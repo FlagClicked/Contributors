@@ -25,7 +25,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://scratch.mit.edu/users/9gr"><img src="https://avatars.githubusercontent.com/u/67440879?v=4?s=100" width="100px;" alt=""/><br /><sub><b>9gr</b></sub></a><br /><a href="#ideas-FunctionalMetatable" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/FlagClicked/Contributors/commits?author=FunctionalMetatable" title="Code">💻</a></td>
     <td align="center"><a href="http://anantjit.whjr.site"><img src="https://avatars.githubusercontent.com/u/74092334?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anantjit</b></sub></a><br /><a href="#ideas-Genius398" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://www.youtube.com/channel/UCKcyk0YO7HFIOO8zKAk4DHg"><img src="https://avatars.githubusercontent.com/u/82392257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Surej S</b></sub></a><br /><a href="https://github.com/FlagClicked/Contributors/issues?q=author%3ACodeBuddySurej" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://www.youtube.com/channel/UCKcyk0YO7HFIOO8zKAk4DHg"><img src="https://avatars.githubusercontent.com/u/82392257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Surej S</b></sub></a><br /><a href="https://github.com/FlagClicked/Contributors/issues?q=author%3ACodeBuddySurej" title="Bug reports">🐛</a> <a href="#ideas-CodeBuddySurej" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
