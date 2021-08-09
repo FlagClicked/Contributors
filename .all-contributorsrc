@@ -93,6 +93,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "CodeBuddySurej",
+      "name": "Surej S",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82392257?v=4",
+      "profile": "https://www.youtube.com/channel/UCKcyk0YO7HFIOO8zKAk4DHg",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
